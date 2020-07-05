@@ -1,0 +1,2 @@
+# BIGTREETECH-SKR-V1.3
+Kossel Mini
